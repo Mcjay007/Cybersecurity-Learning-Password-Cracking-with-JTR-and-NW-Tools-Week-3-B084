@@ -94,7 +94,7 @@ or personal accounts is prohibited.
 - [ ] Defensive Security Techniques
 
 ## ⭐ Screenshot
-![](Screenshot (15).png)
+![ ]Screenshot (15).png]
 
 ## 👨‍💻 Author
 
