@@ -104,7 +104,8 @@ or personal accounts is prohibited.
 **Mojetoluwa Ojo**
 
 Cybersecurity Learner | Ethical Hacking | Risk, Compliance & Governance
-
+[https://github.com/Mcjay007/Cybersecurity-Learning-Password-Cracking-with-JTR-and-NW-Tools-Week-3-B084/blob/main/README.md]
+[https://lnkd.in/p/d7G_D5CS]
 ## ⭐ Conclusion
 
 My goal is to develop practical cybersecurity skills,
